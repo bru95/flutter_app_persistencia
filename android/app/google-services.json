@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "246383346300",
+    "firebase_url": "https://flutterfirebasepos-920f6.firebaseio.com",
+    "project_id": "flutterfirebasepos-920f6",
+    "storage_bucket": "flutterfirebasepos-920f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246383346300:android:9ebfd5233d3f9d08ccfff9",
+        "android_client_info": {
+          "package_name": "posupf.flutterapppersistencia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246383346300-5i10rdh1bmc58lhod6792joovc6d0ct3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz894GE2_S6P9CiyzRc9rT0At7w9A0VQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246383346300-5i10rdh1bmc58lhod6792joovc6d0ct3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
